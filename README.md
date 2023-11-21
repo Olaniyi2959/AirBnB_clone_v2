@@ -12,7 +12,7 @@ The ability to filter and search for objects using various parameters.
 Usage
 Clone the repository
 
-git clone https://github.com/Astro175/AirBnB_clone_v2
+
 Install MySQL database
 
 Run the MySQL setup scripts to create the required databases and users
